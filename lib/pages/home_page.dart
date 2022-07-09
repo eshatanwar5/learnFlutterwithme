@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class Homepage extends StatelessWidget {
+  
    final int days = 40;
   final String name = "coderesha";//it will give no error
 

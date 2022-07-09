@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "${workspaceFolder}/windows/runner"
+    "cmake.sourceDirectory": "${workspaceFolder}/windows/runner",
+    "C_Cpp.errorSquiggles": "Disabled"
 }
